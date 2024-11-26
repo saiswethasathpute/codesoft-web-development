@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admire Someone Special</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Person I Admire: <span id="name">Mahatma Gandhi</span></h1>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>About Mahatma Gandhi</h2>
+            <img src="gandhi.jpg" alt="Mahatma Gandhi" class="profile-img">
+            <p>Mahatma Gandhi was a leader who fought for India's independence from British rule through non-violent civil disobedience. His principles of truth, non-violence, and self-discipline have inspired millions of people around the world.</p>
+        </div>
+    </section>
+
+    <section id="qualities">
+        <div class="container">
+            <h2>Admirable Qualities</h2>
+            <ul>
+                <li><strong>Non-violence:</strong> Gandhi believed in non-violence as the most powerful weapon for social change.</li>
+                <li><strong>Leadership:</strong> He led by example, inspiring others to follow his principles through peaceful actions.</li>
+                <li><strong>Integrity:</strong> Gandhi maintained his values, even in the face of adversity.</li>
+                <li><strong>Compassion:</strong> He had deep compassion for all living beings, always advocating for the oppressed.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="legacy">
+        <div class="container">
+            <h2>Legacy</h2>
+            <p>Gandhi's legacy continues to influence global movements for peace, justice, and human rights. His philosophy of non-violence remains a guiding light for many leaders and activists around the world.</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Tribute to Mahatma Gandhi. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
+
+
